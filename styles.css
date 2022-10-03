@@ -1,5 +1,6 @@
 body {
     text-align:center;
+    display:block;
 }
 #title {
     display: block;
@@ -26,6 +27,9 @@ p {
     border-radius: 5px;
     background: #eee;
 }
-img{
+#image{
     max-width: 100%;
+}
+#img-caption {
+    margin: 15px 0 5px 0;
 }
